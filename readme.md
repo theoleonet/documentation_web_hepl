@@ -14,12 +14,12 @@ Les guidelines "AA" du WCAG seront également respectées.
 
 ## La charte graphique
 ### Les Couleurs
-![Les couleurs du site de la section web de la HEPL sur fond noir et sur fond blanc.](./colors.svg)
+![Les couleurs du site de la section web de la HEPL sur fond noir et sur fond blanc.](https://github.com/theoLeonet/documentation_web_hepl/blob/main/images/colors.svg?raw=true)
 
 Le but de ces couleurs est de rester sur quelque chose de simple et épuré mais ou l'on peut faire resortir les choses importantes en utilisant le bleu à droite de l'image.
 
 ### Les Polices
-![Les polices du site de la section web de la HEPL.](./fonts.svg)
+![polices du site de la section web de la HEPL.](https://github.com/theoLeonet/documentation_web_hepl/blob/main/images/fonts.svg?raw=true)
 
 Les polices Arial et Verdana ont été choisies car elles sont disponibles de base sur la plupart des ordinateurs ce qui permet de réduire la taille des fichiers que l'utilisateur devra télécharger réduisant ainsi les emissions de C0<sub>2</sub>.  
 Même si ces polices peuvent sembler communes, utilisées correctement, elles peuvent donner de bons résultats.
