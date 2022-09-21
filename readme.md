@@ -47,11 +47,11 @@ Cependant d'autres couleurs (à déterminer) seront utilisées pour attirer l'at
 Les polices choisies pour le site sont Sora et Arial. Sora à été choisie comme police pour le titrage car je trouve qu'elle à une personnalité assez "web", "technologique", sans pour autant rentrer dans le stéréotype de la police à chasse fixe.  
 Arial est la police qui sera utilisée pour le gros du contenu. Elle à été choisie car c'est une police stable et connue du public, son but n'est pas d'attirer l'attention mais simplement de transmettre l'information.  
 Les deux polices ont aussi été pensées sur le plan environemental.
-Sora est variable, ce qui veut dire qu'il n'y à qu'un fichier à télécharger pour les différentes variantes de la police. Arial quant à elle est une polce instalée par défaut sur la majorité des ordinateurs, ce qui veut dire qu'il ne faudra même pas que l'utilisateur la télécharge. Ces deux choses combinées permettent d'économiser de l'énèrgie ce qui va réduire la quantité de CO<sub>2</sub> produite lors de l'utilisation du site.  
+Sora est variable, ce qui veut dire qu'il n'y à qu'un fichier à télécharger pour les différentes variantes de la police. Arial quant à elle est une polce instalée par défaut sur la majorité des ordinateurs, ce qui veut dire qu'il ne faudra même pas que l'utilisateur la télécharge. Ces deux choses combinées permettent d'économiser de l'énergie ce qui va réduire la quantité de CO<sub>2</sub> produite lors de l'utilisation du site.  
 
 Voici un exemple d'utilisation de ces polices dans une vue de type "blog".
 
-![Les polices du site de la section web de la HEPL mise en contexte dans une vue de type blog](https://github.com/theoLeonet/documentation_web_hepl/blob/main/images/fonts.svg?raw=true)
+![Les polices du site de la section web de la HEPL mise en contexte dans une vue de type blog](https://github.com/theoLeonet/documentation_web_hepl/blob/main/images/font_ex_blog_post.svg?raw=true)
 
 ### Ce qu'on trouve sur le site
 - **La page d'accueil:** sur la page d'accueil, on devra retrouver une présentation du bachelier et de sa philosophie. Les autres pages (Blog, Forum, Travaux étudiants,...) y seront introduites avec des liens permettant d'y accéder.
