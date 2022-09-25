@@ -6,10 +6,10 @@
 - [Anciens](./anciens.md)
 - [Contact](./contact.md)
 - [Professeurs](./professeurs.md)
-- [Profil ou inscription / connexion](./profile.md)
+- [Profil ou inscription / connexion](./inscription)
 - [Traductions](./traductions)
-- [Travaux étudiants](./travaux)
-- [Entreprises](./entreprises)
+- [Travaux étudiants](./projets_etudiants)
+- [Entreprises](./entreprise)
 
 ## Texte d'intro
 - Parle de la section et de sa philosophie

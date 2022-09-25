@@ -1,18 +1,15 @@
-
-# Contact
-
-# Accueil
+# inscription
 ## Navigation
-- [Accueil](./acceil.md)
+- [Accueil](./accueil.md)
 - [Blog](./blog.md)
 - [Forum](./forum.md)
 - [Anciens](./anciens.md)
 - [Contact](./contact.md)
 - [Professeurs](./professeurs.md)
-- [Profil ou inscription / connexion](./profile.md)
-- [Traductions](./traductions)
-- [Travaux étudiants](./travaux)
-- [Entreprises](./entreprises)
+- [Profil ou inscription / connexion](./inscription.md)
+- [Traductions](./traductions.md)
+- [Travaux étudiants](./projets_etudiants.md)
+- [Entreprises](./entreprise.md)
 
 - Formulaire avec un champ pour le nom, un pour le prénom, un pour l'email, la photo de profil et un pour le mot de passe.
 

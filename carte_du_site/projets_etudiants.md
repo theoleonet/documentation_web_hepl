@@ -1,15 +1,15 @@
 # Projets étudiants
 ## Navigation
-- [Accueil](./acceil.md)
+- [Accueil](./accueil.md)
 - [Blog](./blog.md)
 - [Forum](./forum.md)
 - [Anciens](./anciens.md)
 - [Contact](./contact.md)
 - [Professeurs](./professeurs.md)
-- [Profil ou inscription / connexion](./profile.md)
-- [Traductions](./traductions)
-- [Travaux étudiants](./travaux)
-- [Entreprises](./entreprise)
+- [Profil ou inscription / connexion](./inscription.md)
+- [Traductions](./traductions.md)
+- [Travaux étudiants](./projets_etudiants.md)
+- [Entreprises](./entreprise.md)
 
 ## Travaux étudiants
 - Texte introductif
