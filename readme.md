@@ -54,21 +54,7 @@ Voici un exemple d'utilisation de ces polices dans une vue de type "blog".
 ![Les polices du site de la section web de la HEPL mise en contexte dans une vue de type blog](https://github.com/theoLeonet/documentation_web_hepl/blob/main/images/font_ex_blog_post.svg?raw=true)
 
 ### Ce qu'on trouve sur le site
-- **La page d'accueil:** sur la page d'accueil, on devra retrouver une présentation du bachelier et de sa philosophie. Les autres pages (Blog, Forum, Travaux étudiants,...) y seront introduites avec des liens permettant d'y accéder.
-
-- **La page de blog:** sur cette page, on pourra trouver l'actualité du bachelier et des articles interessants écrits par les membres de la formation.
-
-- **La page forum:** la page forum permettra à tous de discuter, poser des questions. Un système d'upvote à la [ reddit ](https://www.reddit.com) ou [ stack overflow ](https://github.com/theoLeonet/documentation_web_hepl/blob/main/images/font_ex_blog_post.svg?raw=true) pourrait être mis en place à fin d'organiser le contenu.
-
-- **La page entreprise:** sur la page entreprise, on pourra trouver des offres de stages proposées par les entreprises qui seront au préalable vérifiées et acceptées par l'administration du site. Cette page pourrait aussi servir de présentation pour certaines entreprises, notemment celles des anciens.
-
-- **Les pages de présentation des projets**: les projets des étudiants seront présentés de manière détaillée sur ses pages ([un peu de cette façon](https://christy-hu.com/nickelodeon/index.html)). 
-
-- **Les pages de présentation des professeurs:** on pourra y trouver des informations sur les professeurs, leur parcours, des fun facts, la matière qu'ils enseignent,...
-
-- **Les pages de présentation des anciens:** ses pages permettront de mettre en lumière les débouchés qu'amènent la formation. Ce sera aussi une façon de découvrir le type de profil qui sort du bachelier et les personnes qui seront (peut-être) les futurs maitres de stage des visiteurs.
-- **Le footer**: dans le footer de chaque page on pourra trouver une section pour s'inscrire à la newsletter du site ainsi qu'un formulaire de contact.
-
+Le contenu se trouve dans le dossier ["carte du site"](./carte_du_site/accueil.md).
 ### La date de remise
 Le site sera rendu pour le jury de l'examen de janvier. La date précise reste à déterminer.
 
